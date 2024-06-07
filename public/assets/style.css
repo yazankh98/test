@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(229, 232, 235);
+}
+.CreateUser a {
+    list-style: none;
+}
+
+.CreateUser button {
+    background: rgb(18, 99, 213);
+
+}
+.CreateUser button {
+    margin: 30px;
+}
+.table-color{
+    width: 75%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.table-radius
+{
+    border-radius: 5px;
+}
+.noPOST{
+    border-radius: 5px;
+    margin: 0 auto;
+    width: 50%;
+    font-size: 2rem;
+    text-align: center;
+    background: rgb(11,94,215);
+    background: linear-gradient(90deg, rgba(11,94,215,1) 0%, rgba(117,167,177,1) 93%);
+    color: white;
+}
+.cards {
+    margin: 30px auto;
+}
+.containerCards{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+.contanierCreatePost {
+    width: 50%;
+    margin: 0 auto;
+}
+.btnCreate{
+    width: 100%;
+    border: 2px solid rgb(1, 75, 184);
+}
+.btnUpdate{
+    border: 2px solid rgb(16, 92, 57) ;
+}
